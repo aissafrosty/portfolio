@@ -1,26 +1,26 @@
 [
   {
     "heading": "The Spark (2019–2022)",
-    "content": "For three years, I observed my cousin, a web developer, write code while I was asking questions but never touching an IDE. It was pure curiosity. In 2022, I bought my first computer (a relic with 2GB RAM) and took the plunge. Starting with C++ was brutal; I finished the course understanding nothing. But HTML changed everything. Seeing my work come to life on the UI hooked me instantly."
+    "content": "For three years, I observed my cousin, a web developer, write code while I was asking questions but never touching an IDE. It was pure curiosity. In 2022, I bought my first computer and took the plunge. Starting with C++ was brutal; I finished the course understanding nothing. But HTML changed everything. Seeing my work come to life on the UI hooked me instantly."
   },
   {
     "heading": "The Silent Grind",
     "content": "I learned in isolation. No audience, no validation, just my cousin’s guidance and relentless self-teaching. I built projects I cared about, free from external expectations. The silence became my fuel."
   },
   {
-    "heading": "The Pivot: Frontend to Backend",
+    "heading": "Frontend to Backend",
     "content": "After 1.5 years, I switched to backend development, a near-breaking point. Imposter syndrome hit hard: \"Am I cut out for this?\" But I recalibrated. If others could master it, so could I. Today, TypeScript and NestJS feel like second nature."
   },
   {
     "heading": "Why I Code",
-    "content": "I enjoy experiencing the flow state where I lose track of time, solving bugs, and watching ideas materialize on-screen. At the same time, problem-solving became a mindset: coding rewired my brain. Life’s challenges? Just \"bugs\" to debug and analyze, iterate, solve. Meanwhile, in an age of endless scrolling, coding taught me to value deep work."
+    "content": "I enjoy experiencing the flow state where I lose track of time, solving bugs, and watching ideas materialize on-screen. At the same time, problem-solving became a mindset: coding rewired my brain. Life’s challenges? Just \"bugs\" to debug and analyze, iterate, solve."
   },
   {
     "heading": "Tools & Philosophy",
-    "content": "I now work with TypeScript, Next.js, and NestJS, though adaptability matters more than any stack. My mantra? Build, learn, repeat. Stuck? Solve it or step away, clarity follows patience."
+    "content": "I now work with TypeScript, Next.js, and NestJS, though adaptability matters more than any stack. My mindset? Build, learn, repeat. Stuck? Solve it or step away, clarity follows patience."
   },
   {
     "heading": "Beyond the Screen",
-    "content": "Gym, friends, gaming, watching YouTube, reading books, learning languages, and going to university where I study English literature (despite initial resistance) honed my appreciation for logic and art."
+    "content": "Hitting the Gym, hang out with friends, play my fav video games, watching YouTube, reading books, and still going to university."
   }
 ]
